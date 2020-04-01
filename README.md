@@ -1,6 +1,6 @@
 ## OffensEval 
 
-NLP Presentation 5
+NLP Final Presentation
 
 SemEval 2019 Task 6: Identifying and Categorizing Offensive Language in Social Media
 
